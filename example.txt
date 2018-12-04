@@ -1,2 +1,2 @@
 blablabla
-toto je subor v novej vetve nova
+tento subor sa zmenil
